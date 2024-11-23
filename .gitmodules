@@ -1,0 +1,3 @@
+[submodule "brain-score-vision"]
+	path = brain-score/vision
+	url = git@github.com:brain-score/vision.git
