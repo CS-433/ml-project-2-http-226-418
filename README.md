@@ -37,7 +37,7 @@ This project is conducted as a project2 of the CS-433 ML course Fall 2024 at EPF
 1. Clone the repository
 
 2. Install the required dependencies:
-   `pip isntall -r requirements.txt`
+   `pip install -r requirements.txt`
 
 
 ## Team information
