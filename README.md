@@ -33,7 +33,7 @@ This project is conducted as a project2 of the CS-433 ML course Fall 2024 at EPF
 - `reshape.ipynb`
   - Jupyter notebook for reshaping the xarray formed feature extraction to numpy array.
 - `wrong-ed-calculation.ipynb`
-  - Contains wrong ed calculation code, calculating singular separately
+  - Contains wrong ed calculation code, calculating singular separately. Final `ed-calculation.ipynb` contains the correct version.
 
 ## Execution Requirements
 1. Clone the repository
