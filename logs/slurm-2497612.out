@@ -1,0 +1,29 @@
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-5_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-8_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-15_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-1_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-14_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-9_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-16_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-6_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-13_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-2_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-7_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-3_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-11_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-10_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-4_4d.npz
+loading extracted_data_resnext_13/resnext101_32x32d_wsl-12_4d.npz
+{'layer1.0.relu': np.float32(3.8694265), 'layer2.0.relu': np.float32(10.195482), 'layer3.0.relu': np.float32(27.125761), 'layer3.21.relu': np.float32(33.601643)}
+Traceback (most recent call last):
+  File "/scratch/izar/seo/13_resnext_ed.py", line 54, in <module>
+    np.savez(output_file, **effective_dimensionality)
+  File "/home/seo/.local/lib/python3.9/site-packages/numpy/lib/_npyio_impl.py", line 667, in savez
+    _savez(file, args, kwds, False)
+  File "/home/seo/.local/lib/python3.9/site-packages/numpy/lib/_npyio_impl.py", line 764, in _savez
+    zipf = zipfile_factory(file, mode="w", compression=compression)
+  File "/home/seo/.local/lib/python3.9/site-packages/numpy/lib/_npyio_impl.py", line 102, in zipfile_factory
+    return zipfile.ZipFile(file, *args, **kwargs)
+  File "/usr/lib64/python3.9/zipfile.py", line 1239, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: 'extracted_data_resnext_13/ed/new-ed.npz'

@@ -1,0 +1,17 @@
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-4_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-6_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-10_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-2_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-14_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-16_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-1_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-9_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-3_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-8_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-5_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-11_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-12_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-15_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-7_4d.npz
+loading extracted_data_resnet_46/resnet-152_v2_pytorch-13_4d.npz
+{'avgpool': np.float32(1119.4642), 'layer4.1.bn2': np.float32(45.270477), 'layer4.1.relu': np.float32(468.88376)}

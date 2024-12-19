@@ -1,0 +1,26 @@
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-15_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-17_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-23_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-7_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-3_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-4_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-20_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-11_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-8_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-9_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-5_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-19_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-12_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-25_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-6_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-24_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-1_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-13_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-22_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-18_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-16_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-2_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-21_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-10_4d.npz
+loading extracted_data_resnet_39/resnet50_imagenet_100_seed-0-14_4d.npz
+{'layer1.0.conv1': np.float32(2.3581975), 'layer3.0.conv1': np.float32(15.552019), 'layer3.5.bn3': np.float32(16.782818), 'layer4.0.relu': np.float32(226.91763)}

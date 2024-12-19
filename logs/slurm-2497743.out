@@ -1,0 +1,26 @@
+loading extracted_data_resnet_28/resnet50_imagenet_full-5_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-15_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-2_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-24_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-14_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-17_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-3_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-22_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-9_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-16_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-23_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-6_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-18_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-1_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-8_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-20_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-11_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-10_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-12_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-4_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-13_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-7_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-25_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-21_4d.npz
+loading extracted_data_resnet_28/resnet50_imagenet_full-19_4d.npz
+{'layer1.0.conv1': np.float32(3.1232812), 'layer3.0.conv1': np.float32(14.955217), 'layer3.5.bn3': np.float32(10.00843), 'layer4.0.relu': np.float32(513.72974)}

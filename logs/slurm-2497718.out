@@ -1,0 +1,17 @@
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-10_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-3_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-5_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-14_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-16_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-4_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-7_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-6_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-8_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-12_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-11_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-15_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-9_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-2_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-1_4d.npz
+loading extracted_data_resnext_2/resnext101_32x8d_wsl-13_4d.npz
+{'layer2.1.relu': np.float32(9.990288), 'layer2.3.relu': np.float32(10.594265), 'layer3.3.relu': np.float32(26.941193), 'layer3.4.relu': np.float32(28.354008)}

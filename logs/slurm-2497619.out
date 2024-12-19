@@ -1,0 +1,17 @@
+loading extracted_data_resnet_20/resnet50_tutorial-2_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-14_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-8_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-12_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-10_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-3_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-4_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-15_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-11_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-5_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-13_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-1_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-6_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-9_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-7_4d.npz
+loading extracted_data_resnet_20/resnet50_tutorial-16_4d.npz
+{'layer2': np.float32(20.225496), 'layer3': np.float32(121.971085)}

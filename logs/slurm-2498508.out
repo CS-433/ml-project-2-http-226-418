@@ -1,0 +1,7 @@
+loading extracted_data/deit_large_imagenet_full_seed-0-11.npz
+Traceback (most recent call last):
+  File "/scratch/izar/seo/4_deit_ed_4.py", line 36, in <module>
+    array = data[key]
+  File "/home/seo/.local/lib/python3.9/site-packages/numpy/lib/_npyio_impl.py", line 263, in __getitem__
+    raise KeyError(f"{key} is not a file in the archive")
+KeyError: 'blocks.8.norm1blocks.9.norm1 is not a file in the archive'

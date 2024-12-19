@@ -2,3 +2,6 @@
 	path = brain-score/vision
 	url = git@github.com:brain-score/vision.git
 	branch = v2.2.1
+[submodule "paper-repository"]
+	path = paper-repository
+	url = git@github.com:EricElmoznino/encoder_dimensionality.git
