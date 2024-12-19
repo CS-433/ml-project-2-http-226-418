@@ -1,0 +1,26 @@
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-9_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-24_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-16_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-7_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-2_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-1_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-14_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-12_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-20_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-3_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-17_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-22_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-25_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-6_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-18_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-13_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-11_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-15_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-5_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-8_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-21_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-10_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-23_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-4_4d.npz
+loading extracted_data_convnext_8/convnext_small_imagenet_full_seed-0-19_4d.npz
+{'features.4.0': np.float32(50.381824), 'features.5.17.block.0': np.float32(159.40543), 'features.5.2.block.0': np.float32(41.76639), 'features.5.9.block.0': np.float32(87.70992)}

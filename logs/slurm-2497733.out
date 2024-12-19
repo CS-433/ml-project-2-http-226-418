@@ -1,0 +1,26 @@
+loading extracted_data_resnet_47/resnet34_ecoset_full-13_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-20_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-11_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-18_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-17_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-2_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-16_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-1_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-7_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-8_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-3_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-12_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-6_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-14_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-22_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-25_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-19_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-9_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-21_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-5_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-10_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-24_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-4_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-15_4d.npz
+loading extracted_data_resnet_47/resnet34_ecoset_full-23_4d.npz
+{'layer1.0.bn1': np.float32(6.190399), 'layer3.0.conv1': np.float32(16.61575), 'layer3.1.conv1': np.float32(13.74813), 'layer4.0.conv1': np.float32(74.45847)}
