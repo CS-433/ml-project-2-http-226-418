@@ -7,6 +7,8 @@ Specifically, a recent study found a potential connection between high ED and im
 
 This project is conducted as a project2 of the CS-433 ML course Fall 2024 at EPFL. collaborating with neuroAI lab in EPFL. 
 
+**Note: The report slightly exceeds 5 pages as it was not possible to adjust the spacing within the document. With appropriate space adjustments, all the content would fit within 4 pages.**
+
 ## File Configuration
 - `data`
   - Directory containing the datasets used for analysis.
