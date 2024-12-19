@@ -1,0 +1,25 @@
+[31;1m
+`pyenv activate' requires Pyenv and Pyenv-Virtualenv to be loaded into your shell.
+Check your shell configuration and Pyenv and Pyenv-Virtualenv installation instructions.
+
+[0m[NbConvertApp] Converting notebook notebooks/efficientnet-97-extraction.ipynb to python
+/home/remmal/.pyenv/versions/3.11.11/share/jupyter/nbconvert/templates/python/index.py.j2:61: UserWarning: IPython is needed to transform IPython syntax to pure Python. Install ipython if you need this functionality.
+[NbConvertApp] Writing 1367 bytes to notebooks/efficientnet-97-extraction.py
+/home/remmal/.pyenv/versions/3.11.11/lib/python3.11/site-packages/brainscore_core/metrics/__init__.py:16: FutureWarning: xarray subclass Score should explicitly define __slots__
+  class Score(DataAssembly):
+Traceback (most recent call last):
+  File "/scratch/izar/remmal/CS-433/notebooks/efficientnet-97-extraction.py", line 16, in <module>
+    model = load_model('efficientnet_b0')
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/remmal/.pyenv/versions/3.11.11/lib/python3.11/site-packages/brainscore_vision/__init__.py", line 65, in load_model
+    import_plugin('brainscore_vision', 'models', identifier)
+  File "/home/remmal/.pyenv/versions/3.11.11/lib/python3.11/site-packages/brainscore_core/plugin_management/import_plugin.py", line 105, in import_plugin
+    importer = ImportPlugin(library_root=library_root, plugin_type=plugin_type, identifier=identifier,
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/remmal/.pyenv/versions/3.11.11/lib/python3.11/site-packages/brainscore_core/plugin_management/import_plugin.py", line 32, in __init__
+    self.plugin_dirname = self.locate_plugin()
+                          ^^^^^^^^^^^^^^^^^^^^
+  File "/home/remmal/.pyenv/versions/3.11.11/lib/python3.11/site-packages/brainscore_core/plugin_management/import_plugin.py", line 59, in locate_plugin
+    assert plugin_registrations_count > 0, f"No registrations found for {self.identifier}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: No registrations found for efficientnet_b0
